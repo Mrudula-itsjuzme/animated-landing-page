@@ -1,0 +1,19 @@
+.app-container {
+  width: 100%;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 24px 5% 20px;
+  background-color: var(--bg);
+  position: relative;
+  overflow: hidden;
+}
+
+.app-container > header { position: relative; z-index: 20; }
+
+@media (min-width: 1600px) {
+  .app-container {
+    padding: 28px 6% 48px;
+  }
+}
