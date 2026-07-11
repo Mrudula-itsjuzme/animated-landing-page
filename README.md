@@ -1,8 +1,10 @@
-# FurryTail Animated Hero
+# Animated Landing Page
 
-A mascot-led landing-page hero for a warm, playful pet-care brand.
+A mascot-led landing-page experiment with a warm, playful pet-care visual direction.
 
 The concept opens with a short three-second intro sequence, then settles into an expressive editorial composition with layered typography, hand-drawn details, and a dog mascot whose tail continues to wag after the entrance animation.
+
+This is an independent UI and motion-design trial, not an official brand implementation.
 
 ## What the prototype explores
 
@@ -36,8 +38,8 @@ The concept opens with a short three-second intro sequence, then settles into an
 ## Run locally
 
 ```bash
-git clone https://github.com/Mrudula-itsjuzme/ui_trial.git
-cd ui_trial
+git clone https://github.com/Mrudula-itsjuzme/animated-landing-page.git
+cd animated-landing-page
 npm install
 npm run dev
 ```
@@ -67,4 +69,4 @@ This repository focuses on the hero experience and animation system. Product pag
 
 ## Author
 
-Built by [Pedamallu Sai Mrudula](https://github.com/Mrudula-itsjuzme) as an animated brand and interaction-design experiment.
+Built by [Pedamallu Sai Mrudula](https://github.com/Mrudula-itsjuzme) as an animated landing-page and interaction-design experiment.
